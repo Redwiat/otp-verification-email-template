@@ -28,7 +28,7 @@ This repository contains an OTP (One-Time Password) verification email template 
 
 ## Example
 
-You can preview the OTP verification email template by opening the `index.html` file in your web browser. The template is designed to be used within an email client, so it may not display the same way as a standalone web page.
+You can preview the OTP verification email template by opening the `otp-verification-email-template.html` file in your web browser. The template is designed to be used within an email client, so it may not display the same way as a standalone web page.
 
 ## Credits
 
